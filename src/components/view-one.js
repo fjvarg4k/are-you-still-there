@@ -42,7 +42,7 @@ class ViewOne extends Component {
       this.setState({
         showModal: true
       }),
-      5000
+      10000
     );
   }
 
